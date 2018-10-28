@@ -1,0 +1,16 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Andhra Pradesh,Chittor,Mulakalacheruvu,Tomato,Local,27/10/2018,350,700,550
+Andhra Pradesh,Chittor,Piler,Tomato,Deshi,27/10/2018,500,600,550
+Andhra Pradesh,Cuddapah,Cuddapah,Groundnut,Local,27/10/2018,3497,3497,3497
+Andhra Pradesh,Kurnool,Adoni,Groundnut,Balli/Habbu,27/10/2018,2186,5519,4616
+Andhra Pradesh,Kurnool,Alur,Jowar(Sorghum),Jowar ( White),27/10/2018,2050,2250,2150
+Andhra Pradesh,Kurnool,Atmakur,Paddy(Dhan),Sona Mahsuri,27/10/2018,1750,1750,1750
+Andhra Pradesh,Kurnool,Koilkunta,Jowar(Sorghum),Jowar ( White),27/10/2018,1700,2430,1750
+Andhra Pradesh,Kurnool,Kurnool,Castor Seed,Other,27/10/2018,3981,4689,4600
+Andhra Pradesh,Kurnool,Kurnool,Groundnut,Local,27/10/2018,2470,5809,4369
+Andhra Pradesh,Kurnool,Kurnool,Maize,Local,27/10/2018,1329,1700,1359
+Andhra Pradesh,Kurnool,Kurnool,Onion,Local,27/10/2018,400,1210,860
+Andhra Pradesh,Kurnool,Kurnool,Sunflower,Bold,27/10/2018,3708,5388,3728
+Andhra Pradesh,Kurnool,Nandikotkur,Bengal Gram(Gram)(Whole),Gulabi,27/10/2018,4400,4400,4400
+Andhra Pradesh,Kurnool,Nandikotkur,Maize,Hybrid,27/10/2018,1700,1700,1700
+Andhra Pradesh,Kurnool,Nandikotkur,Paddy(Dhan),Sona,27/10/2018,1750,1750,1750
